@@ -20,24 +20,6 @@ Next, we'll need to turn on GitHub Pages for our **resume** repository.
 ![The GitHub Pages settings page, showing the main branch selected as the source.](./images/select-pages-source.png)
 1. After you select your source, you'll be notified of the address of your new website. It should look something like *your-username.github.io/resume/*. Navigate to the page, and check out your live resume website!
 
-## Quiz
-
-Try this quick quiz to check your knowledge
-
-Q1: What does HTML stand for?
-- a. Hypertext Markdown Language
-- b. Hypotext Markup Language
-- c. Hypertext Markup Language
-
-Q2: HTML pages normally include the following main tags:
-- a. head, body, and tail
-- b. html, head, body and tail
-- c. html, head, and body
-
-Q3: CSS is NOT used to manage:
-- a. tag creation
-- b. background color
-- c. font size
 
 ## Summary
 
