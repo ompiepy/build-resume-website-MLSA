@@ -36,7 +36,7 @@ Let's get started!
 
 ## Feedback
 
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
+Be sure to give [feedback about this workshop](feedback.omprakash.codes)!
 
 [Code of Conduct](./CODE_OF_CONDUCT.md)
 
